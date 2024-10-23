@@ -1,2 +1,3 @@
 # cigarette
-A simple and fun app to relax 🚬🚬🚬🚬🚬 
+
+A simple and fun app to relax 🚬🚬🚬🚬🚬
